@@ -29,5 +29,4 @@ public class ICMS extends Imposto {
 		this.destino = destino;
 	}
 
-
 }

@@ -7,7 +7,7 @@ public class IOF extends Imposto{
 	private double diasCorridos;
 	
 	public IOF(String nome, String esfera) {
-		super(nome,esfera);
+		super(nome, esfera);
 	}
 	
 	@Override
